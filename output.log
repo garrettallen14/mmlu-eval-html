@@ -1,0 +1,229 @@
+2024-07-24 03:57:35,082 - INFO - Evaluating subset: abstract_algebra
+2024-07-24 03:57:47,738 - INFO - 
+Final Accuracy: 48.00%
+2024-07-24 03:57:47,743 - INFO - Results for abstract_algebra saved to results_abstract_algebra.json
+2024-07-24 03:57:47,743 - INFO - Evaluating subset: anatomy
+2024-07-24 03:58:03,144 - INFO - 
+Final Accuracy: 62.96%
+2024-07-24 03:58:03,154 - INFO - Results for anatomy saved to results_anatomy.json
+2024-07-24 03:58:03,154 - INFO - Evaluating subset: astronomy
+2024-07-24 03:58:20,069 - INFO - 
+Final Accuracy: 79.61%
+2024-07-24 03:58:20,082 - INFO - Results for astronomy saved to results_astronomy.json
+2024-07-24 03:58:20,084 - INFO - Evaluating subset: business_ethics
+2024-07-24 03:58:37,376 - INFO - 
+Final Accuracy: 78.00%
+2024-07-24 03:58:37,381 - INFO - Results for business_ethics saved to results_business_ethics.json
+2024-07-24 03:58:37,381 - INFO - Evaluating subset: clinical_knowledge
+2024-07-24 03:59:00,999 - INFO - 
+Final Accuracy: 77.74%
+2024-07-24 03:59:01,013 - INFO - Results for clinical_knowledge saved to results_clinical_knowledge.json
+2024-07-24 03:59:01,014 - INFO - Evaluating subset: college_biology
+2024-07-24 03:59:19,683 - INFO - 
+Final Accuracy: 84.72%
+2024-07-24 03:59:19,693 - INFO - Results for college_biology saved to results_college_biology.json
+2024-07-24 03:59:19,693 - INFO - Evaluating subset: college_chemistry
+2024-07-24 03:59:34,372 - INFO - 
+Final Accuracy: 51.00%
+2024-07-24 03:59:34,378 - INFO - Results for college_chemistry saved to results_college_chemistry.json
+2024-07-24 03:59:34,379 - INFO - Evaluating subset: college_computer_science
+2024-07-24 03:59:50,895 - INFO - 
+Final Accuracy: 57.00%
+2024-07-24 03:59:50,905 - INFO - Results for college_computer_science saved to results_college_computer_science.json
+2024-07-24 03:59:50,907 - INFO - Evaluating subset: college_mathematics
+2024-07-24 04:00:04,561 - INFO - 
+Final Accuracy: 43.00%
+2024-07-24 04:00:04,566 - INFO - Results for college_mathematics saved to results_college_mathematics.json
+2024-07-24 04:00:04,567 - INFO - Evaluating subset: college_medicine
+2024-07-24 04:00:47,217 - INFO - 
+Final Accuracy: 67.05%
+2024-07-24 04:00:47,231 - INFO - Results for college_medicine saved to results_college_medicine.json
+2024-07-24 04:00:47,232 - INFO - Evaluating subset: college_physics
+2024-07-24 04:01:00,376 - INFO - 
+Final Accuracy: 43.14%
+2024-07-24 04:01:00,384 - INFO - Results for college_physics saved to results_college_physics.json
+2024-07-24 04:01:00,385 - INFO - Evaluating subset: computer_security
+2024-07-24 04:01:14,474 - INFO - 
+Final Accuracy: 82.00%
+2024-07-24 04:01:14,478 - INFO - Results for computer_security saved to results_computer_security.json
+2024-07-24 04:01:14,478 - INFO - Evaluating subset: conceptual_physics
+2024-07-24 04:01:32,416 - INFO - 
+Final Accuracy: 70.64%
+2024-07-24 04:01:32,425 - INFO - Results for conceptual_physics saved to results_conceptual_physics.json
+2024-07-24 04:01:32,426 - INFO - Evaluating subset: econometrics
+2024-07-24 04:01:48,854 - INFO - 
+Final Accuracy: 54.39%
+2024-07-24 04:01:48,863 - INFO - Results for econometrics saved to results_econometrics.json
+2024-07-24 04:01:48,864 - INFO - Evaluating subset: electrical_engineering
+2024-07-24 04:02:02,427 - INFO - 
+Final Accuracy: 60.00%
+2024-07-24 04:02:02,434 - INFO - Results for electrical_engineering saved to results_electrical_engineering.json
+2024-07-24 04:02:02,435 - INFO - Evaluating subset: elementary_mathematics
+2024-07-24 04:02:36,927 - INFO - 
+Final Accuracy: 54.50%
+2024-07-24 04:02:36,933 - INFO - Results for elementary_mathematics saved to results_elementary_mathematics.json
+2024-07-24 04:02:36,934 - INFO - Evaluating subset: formal_logic
+2024-07-24 04:02:55,957 - INFO - 
+Final Accuracy: 60.32%
+2024-07-24 04:02:55,964 - INFO - Results for formal_logic saved to results_formal_logic.json
+2024-07-24 04:02:55,965 - INFO - Evaluating subset: global_facts
+2024-07-24 04:03:07,365 - INFO - 
+Final Accuracy: 42.00%
+2024-07-24 04:03:07,371 - INFO - Results for global_facts saved to results_global_facts.json
+2024-07-24 04:03:07,372 - INFO - Evaluating subset: high_school_biology
+2024-07-24 04:03:40,381 - INFO - 
+Final Accuracy: 85.81%
+2024-07-24 04:03:40,389 - INFO - Results for high_school_biology saved to results_high_school_biology.json
+2024-07-24 04:03:40,390 - INFO - Evaluating subset: high_school_chemistry
+2024-07-24 04:04:04,401 - INFO - 
+Final Accuracy: 63.05%
+2024-07-24 04:04:04,413 - INFO - Results for high_school_chemistry saved to results_high_school_chemistry.json
+2024-07-24 04:04:04,414 - INFO - Evaluating subset: high_school_computer_science
+2024-07-24 04:04:22,186 - INFO - 
+Final Accuracy: 72.00%
+2024-07-24 04:04:22,196 - INFO - Results for high_school_computer_science saved to results_high_school_computer_science.json
+2024-07-24 04:04:22,197 - INFO - Evaluating subset: high_school_european_history
+2024-07-24 04:05:18,748 - INFO - 
+Final Accuracy: 79.39%
+2024-07-24 04:05:18,760 - INFO - Results for high_school_european_history saved to results_high_school_european_history.json
+2024-07-24 04:05:18,761 - INFO - Evaluating subset: high_school_geography
+2024-07-24 04:05:35,636 - INFO - 
+Final Accuracy: 83.84%
+2024-07-24 04:05:35,649 - INFO - Results for high_school_geography saved to results_high_school_geography.json
+2024-07-24 04:05:35,650 - INFO - Evaluating subset: high_school_government_and_politics
+2024-07-24 04:05:55,872 - INFO - 
+Final Accuracy: 91.71%
+2024-07-24 04:05:55,882 - INFO - Results for high_school_government_and_politics saved to results_high_school_government_and_politics.json
+2024-07-24 04:05:55,883 - INFO - Evaluating subset: high_school_macroeconomics
+2024-07-24 04:06:31,717 - INFO - 
+Final Accuracy: 72.56%
+2024-07-24 04:06:31,725 - INFO - Results for high_school_macroeconomics saved to results_high_school_macroeconomics.json
+2024-07-24 04:06:31,725 - INFO - Evaluating subset: high_school_mathematics
+2024-07-24 04:06:58,671 - INFO - 
+Final Accuracy: 35.56%
+2024-07-24 04:06:58,681 - INFO - Results for high_school_mathematics saved to results_high_school_mathematics.json
+2024-07-24 04:06:58,681 - INFO - Evaluating subset: high_school_microeconomics
+2024-07-24 04:07:22,630 - INFO - 
+Final Accuracy: 86.97%
+2024-07-24 04:07:22,639 - INFO - Results for high_school_microeconomics saved to results_high_school_microeconomics.json
+2024-07-24 04:07:22,639 - INFO - Evaluating subset: high_school_physics
+2024-07-24 04:07:43,438 - INFO - 
+Final Accuracy: 56.95%
+2024-07-24 04:07:43,448 - INFO - Results for high_school_physics saved to results_high_school_physics.json
+2024-07-24 04:07:43,448 - INFO - Evaluating subset: high_school_psychology
+2024-07-24 04:08:35,414 - INFO - 
+Final Accuracy: 89.72%
+2024-07-24 04:08:35,426 - INFO - Results for high_school_psychology saved to results_high_school_psychology.json
+2024-07-24 04:08:35,428 - INFO - Evaluating subset: high_school_statistics
+2024-07-24 04:09:06,089 - INFO - 
+Final Accuracy: 60.65%
+2024-07-24 04:09:06,099 - INFO - Results for high_school_statistics saved to results_high_school_statistics.json
+2024-07-24 04:09:06,100 - INFO - Evaluating subset: high_school_us_history
+2024-07-24 04:10:07,676 - INFO - 
+Final Accuracy: 81.37%
+2024-07-24 04:10:07,687 - INFO - Results for high_school_us_history saved to results_high_school_us_history.json
+2024-07-24 04:10:07,687 - INFO - Evaluating subset: high_school_world_history
+2024-07-24 04:11:31,532 - INFO - 
+Final Accuracy: 83.54%
+2024-07-24 04:11:31,548 - INFO - Results for high_school_world_history saved to results_high_school_world_history.json
+2024-07-24 04:11:31,549 - INFO - Evaluating subset: human_aging
+2024-07-24 04:11:49,399 - INFO - 
+Final Accuracy: 71.75%
+2024-07-24 04:11:49,417 - INFO - Results for human_aging saved to results_human_aging.json
+2024-07-24 04:11:49,418 - INFO - Evaluating subset: human_sexuality
+2024-07-24 04:12:07,739 - INFO - 
+Final Accuracy: 78.63%
+2024-07-24 04:12:07,749 - INFO - Results for human_sexuality saved to results_human_sexuality.json
+2024-07-24 04:12:07,750 - INFO - Evaluating subset: international_law
+2024-07-24 04:12:23,739 - INFO - 
+Final Accuracy: 80.17%
+2024-07-24 04:12:23,748 - INFO - Results for international_law saved to results_international_law.json
+2024-07-24 04:12:23,748 - INFO - Evaluating subset: jurisprudence
+2024-07-24 04:12:37,178 - INFO - 
+Final Accuracy: 79.63%
+2024-07-24 04:12:37,184 - INFO - Results for jurisprudence saved to results_jurisprudence.json
+2024-07-24 04:12:37,185 - INFO - Evaluating subset: logical_fallacies
+2024-07-24 04:12:55,121 - INFO - 
+Final Accuracy: 82.21%
+2024-07-24 04:12:55,129 - INFO - Results for logical_fallacies saved to results_logical_fallacies.json
+2024-07-24 04:12:55,129 - INFO - Evaluating subset: machine_learning
+2024-07-24 04:13:09,335 - INFO - 
+Final Accuracy: 49.11%
+2024-07-24 04:13:09,340 - INFO - Results for machine_learning saved to results_machine_learning.json
+2024-07-24 04:13:09,341 - INFO - Evaluating subset: management
+2024-07-24 04:13:19,958 - INFO - 
+Final Accuracy: 87.38%
+2024-07-24 04:13:19,962 - INFO - Results for management saved to results_management.json
+2024-07-24 04:13:19,962 - INFO - Evaluating subset: marketing
+2024-07-24 04:13:40,856 - INFO - 
+Final Accuracy: 90.60%
+2024-07-24 04:13:40,861 - INFO - Results for marketing saved to results_marketing.json
+2024-07-24 04:13:40,861 - INFO - Evaluating subset: medical_genetics
+2024-07-24 04:13:51,509 - INFO - 
+Final Accuracy: 77.00%
+2024-07-24 04:13:51,515 - INFO - Results for medical_genetics saved to results_medical_genetics.json
+2024-07-24 04:13:51,516 - INFO - Evaluating subset: miscellaneous
+2024-07-24 04:14:51,847 - INFO - 
+Final Accuracy: 83.91%
+2024-07-24 04:14:51,863 - INFO - Results for miscellaneous saved to results_miscellaneous.json
+2024-07-24 04:14:51,864 - INFO - Evaluating subset: moral_disputes
+2024-07-24 04:15:24,355 - INFO - 
+Final Accuracy: 73.41%
+2024-07-24 04:15:24,365 - INFO - Results for moral_disputes saved to results_moral_disputes.json
+2024-07-24 04:15:24,365 - INFO - Evaluating subset: moral_scenarios
+2024-07-24 04:16:47,421 - INFO - 
+Final Accuracy: 51.28%
+2024-07-24 04:16:47,449 - INFO - Results for moral_scenarios saved to results_moral_scenarios.json
+2024-07-24 04:16:47,451 - INFO - Evaluating subset: nutrition
+2024-07-24 04:17:19,444 - INFO - 
+Final Accuracy: 75.49%
+2024-07-24 04:17:19,452 - INFO - Results for nutrition saved to results_nutrition.json
+2024-07-24 04:17:19,452 - INFO - Evaluating subset: philosophy
+2024-07-24 04:17:48,247 - INFO - 
+Final Accuracy: 72.35%
+2024-07-24 04:17:48,261 - INFO - Results for philosophy saved to results_philosophy.json
+2024-07-24 04:17:48,262 - INFO - Evaluating subset: prehistory
+2024-07-24 04:18:19,125 - INFO - 
+Final Accuracy: 76.85%
+2024-07-24 04:18:19,139 - INFO - Results for prehistory saved to results_prehistory.json
+2024-07-24 04:18:19,140 - INFO - Evaluating subset: professional_accounting
+2024-07-24 04:18:54,182 - INFO - 
+Final Accuracy: 58.16%
+2024-07-24 04:18:54,191 - INFO - Results for professional_accounting saved to results_professional_accounting.json
+2024-07-24 04:18:54,192 - INFO - Evaluating subset: professional_law
+2024-07-24 04:25:32,042 - INFO - 
+Final Accuracy: 51.76%
+2024-07-24 04:25:32,078 - INFO - Results for professional_law saved to results_professional_law.json
+2024-07-24 04:25:32,079 - INFO - Evaluating subset: professional_medicine
+2024-07-24 04:26:30,879 - INFO - 
+Final Accuracy: 75.37%
+2024-07-24 04:26:30,891 - INFO - Results for professional_medicine saved to results_professional_medicine.json
+2024-07-24 04:26:30,892 - INFO - Evaluating subset: professional_psychology
+2024-07-24 04:27:33,672 - INFO - 
+Final Accuracy: 75.16%
+2024-07-24 04:27:33,688 - INFO - Results for professional_psychology saved to results_professional_psychology.json
+2024-07-24 04:27:33,689 - INFO - Evaluating subset: public_relations
+2024-07-24 04:27:47,666 - INFO - 
+Final Accuracy: 67.27%
+2024-07-24 04:27:47,673 - INFO - Results for public_relations saved to results_public_relations.json
+2024-07-24 04:27:47,674 - INFO - Evaluating subset: security_studies
+2024-07-24 04:28:36,035 - INFO - 
+Final Accuracy: 75.92%
+2024-07-24 04:28:36,053 - INFO - Results for security_studies saved to results_security_studies.json
+2024-07-24 04:28:36,054 - INFO - Evaluating subset: sociology
+2024-07-24 04:28:57,163 - INFO - 
+Final Accuracy: 85.07%
+2024-07-24 04:28:57,173 - INFO - Results for sociology saved to results_sociology.json
+2024-07-24 04:28:57,174 - INFO - Evaluating subset: us_foreign_policy
+2024-07-24 04:29:09,573 - INFO - 
+Final Accuracy: 85.00%
+2024-07-24 04:29:09,583 - INFO - Results for us_foreign_policy saved to results_us_foreign_policy.json
+2024-07-24 04:29:09,584 - INFO - Evaluating subset: virology
+2024-07-24 04:29:27,516 - INFO - 
+Final Accuracy: 50.60%
+2024-07-24 04:29:27,524 - INFO - Results for virology saved to results_virology.json
+2024-07-24 04:29:27,524 - INFO - Evaluating subset: world_religions
+2024-07-24 04:29:41,932 - INFO - 
+Final Accuracy: 80.70%
+2024-07-24 04:29:41,944 - INFO - Results for world_religions saved to results_world_religions.json
+2024-07-24 04:29:41,947 - INFO - Overall scores saved to overall_scores.json

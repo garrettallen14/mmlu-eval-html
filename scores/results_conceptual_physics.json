@@ -1,0 +1,1412 @@
+[
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A 10-N force at an angle 45\u00b0 above the horizontal has a horizontal component of about\n\nChoices:\nA. 7 N\nB. 5 N\nC. 10 N\nD. 12 N\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A completely submerged object always displaces its own\n\nChoices:\nA. weight of fluid.\nB. volume of fluid.\nC. density of fluid.\nD. All of these.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a diver points a flashlight upward toward the surface of the water at an angle 20\u00b0 from the normal, the beam of light\n\nChoices:\nA. totally internally reflects\nB. passes into the air above\nC. is absorbed\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: According to four-dimensional geometry, the angles of a triangle add to 180\u00b0\n\nChoices:\nA. always.\nB. sometimes.\nC. never.\nD. on planet Earth only.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A voltage will be induced in a wire loop when the magnetic field within that loop\n\nChoices:\nA. changes\nB. aligns with the electric field\nC. is at right angles to the electric field\nD. converts to magnetic energy\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Among these colors, the one that has the most energy per photon is\n\nChoices:\nA. red\nB. yellow-green\nC. blue\nD. violet\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: According to general relativity,\n\nChoices:\nA. mass distorts spacetime.\nB. gravity affects clocks.\nC. light can\u2019t escape from a black hole.\nD. All of these.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A step-up transformer in an electric circuit can step up\n\nChoices:\nA. voltage\nB. energy\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Spectral lines of the elements are\n\nChoices:\nA. chaotic\nB. ordered\nC. positioned by amplitude\nD. in phase\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A wave transfers\n\nChoices:\nA. amplitude\nB. wavelength\nC. frequency\nD. energy\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore\n\nChoices:\nA. the same\nB. opposite\nC. Either of these\nD. Need more information\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The surface of planet Earth loses energy to outer space due mostly to\n\nChoices:\nA. conduction\nB. convection\nC. radiation\nD. radioactivity\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is\n\nChoices:\nA. half, 1 A\nB. 2 A\nC. Depends on which lamp is closer to the battery\nD. Not enough information to say\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: As a blinking light source approaching you gains speed, you see the frequency of flashes\n\nChoices:\nA. increase.\nB. decrease.\nC. remain unchanged.\nD. None of these.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is\n\nChoices:\nA. 2mg\nB. mg\nC. mg/2\nD. mg/4\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is\n\nChoices:\nA. less.\nB. equal.\nC. greater.\nD. none because it sinks.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you look at the red petals of a rose the color light you're seeing is\n\nChoices:\nA. red.\nB. green.\nC. white minus red.\nD. a mixture of green and yellow.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased\n\nChoices:\nA. speed\nB. frequency\nC. wavelength\nD. All of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you squeeze an air-filled party balloon, you increase its\n\nChoices:\nA. volume\nB. mass\nC. weight\nD. density\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Polarization is a property of\n\nChoices:\nA. transverse waves\nB. longitudinal waves\nC. all waves\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In a vacuum, an object has no\n\nChoices:\nA. buoyant force\nB. mass\nC. weight\nD. All of these\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Temperature is generally proportional to a substance\u2019s\n\nChoices:\nA. thermal energy.\nB. vibrational kinetic energy.\nC. average translational kinetic energy.\nD. rotational kinetic energy.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In a hydraulic press operation, the output piston cannot\n\nChoices:\nA. move farther than the input piston\nB. exceed the force input\nC. exceed the input piston\u2019s speed\nD. produce increased energy\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum\n\nChoices:\nA. decreases\nB. increases\nC. remains unchanged\nD. may increase or decrease\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: According to Hooke\u2019s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces\n\nChoices:\nA. half the bend.\nB. the same bend if the branch doesn\u2019t break.\nC. twice the bend.\nD. 4 times the bend.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When an increase in speed doubles the kinetic energy of a moving body its momentum\n\nChoices:\nA. increases but less than doubles\nB. doubles\nC. more than doubles\nD. depends on factors not stated\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?\n\nChoices:\nA. 1 minute.\nB. 2 minutes.\nC. 5 minutes.\nD. 9 minutes.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will\n\nChoices:\nA. move at a constant speed in a straight line\nB. accelerate at a constant rate in a straight line\nC. come to rest\nD. increase its amount of inertia\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Relativity equations for time, length, and momentum hold true for\n\nChoices:\nA. everyday low speeds.\nB. relativistic speeds.\nC. Both of these.\nD. Neither of these.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Put a saucer of water on your table. A process that then occurs is\n\nChoices:\nA. evaporation\nB. condensation\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A barometer that uses water instead of mercury will be\n\nChoices:\nA. shorter\nB. taller\nC. equal in height\nD. inoperable\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the\n\nChoices:\nA. force due to gravity is the same on each.\nB. air resistance is always zero in free fall.\nC. inertia of both rocks is the same.\nD. ratio of force to mass is the same.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When an increase in speed doubles the momentum of a moving body its kinetic energy\n\nChoices:\nA. increases but less than doubles\nB. doubles\nC. more than doubles\nD. depends on factors not stated\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The equation E = mc^2 indicates that energy\n\nChoices:\nA. equals mass moving at the speed of light squared.\nB. equals moving mass.\nC. is fundamentally different than mass.\nD. and mass are closely related.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: General relativity predicts that\n\nChoices:\nA. light leaving the Sun is slowed by gravity.\nB. light passing the Sun is deflected.\nC. a clock on the Sun\u2019s surface runs faster than on Earth.\nD. All of these.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When an element ejects an alpha particle, the atomic number of the resulting element\n\nChoices:\nA. reduces by 2\nB. reduces by 4\nC. increases by 2\nD. increases by 4\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: As more lamps are connected in parallel in a circuit, the current in the power source\n\nChoices:\nA. increases\nB. decreases\nC. remains the same\nD. Not enough information to say\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of\n\nChoices:\nA. 30 km/h\nB. 40 km/h\nC. 50 km/h\nD. 60 km/h\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The energy of an emitted photon is related to its\n\nChoices:\nA. amplitude\nB. polarization\nC. momentum\nD. frequency\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Thermal conduction involves mainly\n\nChoices:\nA. electrons\nB. protons\nC. neutrons\nD. ions\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with the current in an LED lamp the current in the connecting wire is\n\nChoices:\nA. less.\nB. more.\nC. the same.\nD. Need more information.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Bow waves are produced by waves of water\n\nChoices:\nA. overlapping one another\nB. constructively interfering\nC. moving slower than the source producing them\nD. All of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The speed of sound is slightly greater on a\n\nChoices:\nA. cold day\nB. hot day\nC. day with steady temperature\nD. None of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is\n\nChoices:\nA. half\nB. twice\nC. the same\nD. None of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The second law of thermodynamics tells us that heat doesn\u2019t flow from\n\nChoices:\nA. hot to cold ever\nB. cold to hot ever\nC. hot to cold without external energy\nD. cold to hot without external energy\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of\n\nChoices:\nA. hydrogen.\nB. oxygen.\nC. nitrogen.\nD. But all have the same speed on average.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with the power input, the power output of an ideal transformer is\n\nChoices:\nA. greater\nB. less\nC. the same\nD. Any of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is\n\nChoices:\nA. less than 0.8 N\nB. 0.8 N\nC. greater than 0.8 N\nD. dependent on the orientation of its body\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The vibrations in a longitudinal wave move in a direction\n\nChoices:\nA. along and parallel to the wave\nB. perpendicular to the wave\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The potential energy of a compressed spring and the potential energy of a charged object both depend on\n\nChoices:\nA. the work done on them\nB. motion\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A step-up transformer in an electrical circuit can step up\n\nChoices:\nA. voltage\nB. energy\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The neutrons in an atom are normally found\n\nChoices:\nA. inside the nucleus\nB. outside the nucleus\nC. Either of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The greenish-blue color of ocean water is due mostly to light that hasn\u2019t been\n\nChoices:\nA. absorbed\nB. reflected\nC. scattered\nD. refracted\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Noise-canceling devices make use of sound\n\nChoices:\nA. destruction\nB. interference\nC. resonance\nD. amplification\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Black is the combination of\n\nChoices:\nA. all the colors together\nB. two or more appropriate colors\nC. light when a prism is held upside down\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is\n\nChoices:\nA. about 1 A\nB. 2 A\nC. Depends on which lamp is closer to the battery\nD. Not enough information to say\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Which of these changes when light refracts in passing from one medium to another?\n\nChoices:\nA. Speed only\nB. Wavelength only\nC. Both speed and wavelength\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be\n\nChoices:\nA. 2 Hz\nB. 4 Hz\nC. 8 Hz\nD. 16 Hz\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The loudness of a sound is most closely related to its\n\nChoices:\nA. frequency\nB. period\nC. wavelength\nD. amplitude\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The electric field inside the dome of a Van de Graaff generator is zero when the dome is\n\nChoices:\nA. charged\nB. uncharged\nC. Either of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The redness of a sunrise or sunset is due mostly to light that hasn\u2019t been\n\nChoices:\nA. absorbed\nB. transmitted\nC. scattered\nD. polarized\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a nucleus of uranium-238 emits an alpha particle, left behind is\n\nChoices:\nA. thorium-242\nB. thorium-238\nC. thorium-234\nD. radium-214\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The Doppler effect occurs when a source of sound moves\n\nChoices:\nA. toward you\nB. away from you\nC. Both of these\nD. None of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a proton is plucked from an atomic nucleus, the atom has a decrease in\n\nChoices:\nA. charge\nB. energy\nC. mass\nD. all of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If the Sun were twice as massive, its pull on Mars would be\n\nChoices:\nA. unchanged\nB. twice as much\nC. half as much\nD. four times as much\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: During the time an aircraft produces a sonic boom the aircraft is\n\nChoices:\nA. breaking the sound barrier\nB. pulling out of a subsonic dive\nC. flying faster than sound\nD. Each of these produces a sonic boom\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When food is exposed to gamma radiation, the food\n\nChoices:\nA. becomes slightly radioactive\nB. doesn\u2019t become radioactive\nC. will spoil faster\nD. should be avoided\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The red glow in the neon tube of an advertising sign is a result of\n\nChoices:\nA. fluorescence.\nB. coherence.\nC. polarization.\nD. de-excitation.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Light that is not transmitted by opaque materials is\n\nChoices:\nA. reflected or converted to internal energy in the material.\nB. mainly reflected.\nC. mainly refracted.\nD. transmitted at a lower frequency.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh\n\nChoices:\nA. 1/100 as much\nB. 10 times as much\nC. 100 times as much\nD. 1000 times as much\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A magnetic force acting on a beam of electrons can change its\n\nChoices:\nA. direction\nB. energy\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Microscopic slush in water tends to make the water\n\nChoices:\nA. more dense\nB. less dense\nC. more slippery\nD. warmer\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The speed of sound in air depends on\n\nChoices:\nA. frequency.\nB. wavelength.\nC. air temperature.\nD. All of these.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Heat comes from the Sun to Earth by the process of\n\nChoices:\nA. conduction\nB. convection\nC. radiation\nD. All of these, although radiation is greatest\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A torque is a force\n\nChoices:\nA. like any other force\nB. multiplied by a lever arm\nC. that is fictitious\nD. that accelerates things\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: All of the following are electromagnetic waves EXCEPT\n\nChoices:\nA. microwaves\nB. light waves\nC. X-rays\nD. None is outside the family; all are electromagnetic waves\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Big brother and little sister can balance on a seesaw because of balanced\n\nChoices:\nA. forces\nB. torques\nC. energies\nD. All of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Any atom that emits an alpha particle or beta particle\n\nChoices:\nA. becomes an atom of a different element always.\nB. may become an atom of a different element.\nC. becomes a different isotope of the same element.\nD. increases its mass.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Regelation occurs due to water\u2019s\n\nChoices:\nA. high specific heat\nB. open-structured ice crystals\nC. high rate of expansion\nD. slight tendency to freeze when its temperature is lowered\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in\n\nChoices:\nA. speed\nB. momentum\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A capacitor can store\n\nChoices:\nA. charge\nB. energy\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be\n\nChoices:\nA. one-quarter the value for a tube open at both ends\nB. one-half the value for a tube open at both ends\nC. twice the value for a tube open at both ends\nD. four times the value for a tube open at both ends\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The period of a 10-Hz wave is\n\nChoices:\nA. 1/10 s\nB. 1.0 s\nC. 10 s\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If the Sun collapsed to become a black hole Planet Earth would\n\nChoices:\nA. continue in its present orbit.\nB. likely be sucked into the black hole.\nC. be pulled apart by tidal forces.\nD. Both C and D.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The electric field between a pair of oppositely charged parallel plates\n\nChoices:\nA. gets weaker with distance inside the plates\nB. follows the inverse-square law\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The flight of a blimp best illustrates\n\nChoices:\nA. Archimedes\u2019 principle\nB. Pascal\u2019s principle\nC. Bernoulli\u2019s principle\nD. Boyle\u2019s law\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The distance of your image behind a plane mirror is equal to\n\nChoices:\nA. half your height\nB. half your distance from the mirror\nC. your distance in front of the mirror\nD. more than your distance in front of the mirror\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The discrete orbits of electrons are best understood when modeled by\n\nChoices:\nA. high-speed particles\nB. particles on springs\nC. waves\nD. photons\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Heat engines, such as a jet engine, are more efficient when run at\n\nChoices:\nA. high temperatures\nB. constant temperatures\nC. low temperatures\nD. a constant rate\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The phenomenon of interference occurs for\n\nChoices:\nA. sound waves\nB. light waves\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: As more lamps are connected in a series circuit the current in the power source\n\nChoices:\nA. increases.\nB. decreases.\nC. remains much the same.\nD. Need more information.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you buy a pipe in a hardware store, the water isn\u2019t included. When you buy copper wire, electrons\n\nChoices:\nA. must be supplied by you\nB. are included in the wire\nC. may fall out\u2014hence insulation\nD. None of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a uranium nucleus undergoes fission the energy released is primarily in the form of\n\nChoices:\nA. gamma radiation.\nB. kinetic energy of fission fragments.\nC. kinetic energy of ejected neutrons.\nD. All of these about equally.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Most of the radiation in Earth\u2019s biosphere is\n\nChoices:\nA. natural background radiation\nB. the result of military activities\nC. from nuclear power plants\nD. in the form of cosmic rays\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When white light enters a prism green light is bent more than\n\nChoices:\nA. blue light.\nB. violet light.\nC. red light.\nD. None of these choices is correct.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension\n\nChoices:\nA. is mg\nB. is greater than mg always\nC. is less than mg always\nD. may be greater or less than mg depending on the speed of the ball\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a tin can is whirled in a horizontal circle, the net force on the can acts\n\nChoices:\nA. inward\nB. outward\nC. upward\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The highest ocean tides occur when Earth and the Moon are\n\nChoices:\nA. lined up with the Sun\nB. at right angles to the Sun\nC. at any angle to the Sun\nD. lined up during spring\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises\n\nChoices:\nA. 25 cm\nB. 25 m\nC. 50 cm\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand\u2019s specific heat capacity is\n\nChoices:\nA. lower\nB. higher\nC. about the same\nD. Can\u2019t say\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The color of light most intense in the solar radiation curve is\n\nChoices:\nA. infrared\nB. red\nC. yellow-green\nD. violet\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If the current in the filament of a lamp is 3 A, the current in the connecting wire is\n\nChoices:\nA. less than 3 A\nB. 3 A\nC. more than 3 A\nD. Not enough information to say\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?\n\nChoices:\nA. Magnesium-22\nB. Magnesium-20\nC. Oxygen-18\nD. Oxygen-16\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in\n\nChoices:\nA. less than 20 years.\nB. 20 years.\nC. more than 20 years.\nD. None of these.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of\n\nChoices:\nA. hydrogen\nB. oxygen\nC. nitrogen\nD. All have same average speed\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The mutual induction of electric and magnetic fields can produce\n\nChoices:\nA. light\nB. energy\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a model car speeds up to three times its original speed, its kinetic energy is\n\nChoices:\nA. the same\nB. twice as great\nC. three times greater\nD. None of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If an iron nucleus split in two, its fission fragments would have\n\nChoices:\nA. less mass per nucleon\nB. more mass per nucleon\nC. the same mass per nucleon\nD. either more or less mass per nucleon\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The surface of Planet Earth loses energy to outer space due mostly to\n\nChoices:\nA. conduction.\nB. convection.\nC. radiation.\nD. radioactivity.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The direction of natural processes is from states of\n\nChoices:\nA. higher order to lower order\nB. lower order to higher order\nC. disorganization to organization\nD. disorder to equilibrium\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A principal source of the Earth\u2019s internal energy is\n\nChoices:\nA. tidal friction.\nB. gravitational pressure.\nC. radioactivity.\nD. solar radiation.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A diffraction grating relies on light\n\nChoices:\nA. interference\nB. amplitudes\nC. variations in brightness\nD. being composed of photons\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A satellite in Earth orbit is above Earth\u2019s\n\nChoices:\nA. atmosphere\nB. gravitational field\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The time it takes for a pendulum swinging to and fro refers to its\n\nChoices:\nA. frequency\nB. period\nC. wavelength\nD. amplitude\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: As entropy in a system increases, energy in the system\n\nChoices:\nA. becomes more ordered\nB. becomes less ordered\nC. reaches equilibrium\nD. moves toward destruction\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When water changes to steam, energy is\n\nChoices:\nA. absorbed by the water\nB. released by the water\nC. conserved as the phase change occurs\nD. changed to a different form\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: According to Coulomb, a pair of charged particles placed twice as close to each other experience a force\n\nChoices:\nA. twice as strong\nB. four times as strong\nC. half as strong\nD. one-fourth as strong\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The factors, both of which will increase the magnetic field strength of an electromagnet, are\n\nChoices:\nA. increased electrical current and fewer coils of wire\nB. increased diameter of coil and an increase in the number of coils\nC. an increase in the electrical current and using a strong ferromagnetic material like iron\nD. using an air core instead of iron and increasing the diameter of the coil\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The team that wins in a tug-of-war is the team that\n\nChoices:\nA. produces more tension in the rope than the opponent\nB. pushes hardest on the ground\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?\n\nChoices:\nA. Alpha\nB. Beta\nC. Gamma\nD. None of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Thermal convection involves mainly\n\nChoices:\nA. radiant energy\nB. fluids\nC. insulators\nD. All of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A 10-\u03a9 resistor carries 10 A. The voltage across the resistor is\n\nChoices:\nA. 0\nB. more than 0 but less than 10 V\nC. 10 V\nD. more than 10 V\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about\n\nChoices:\nA. 10 m/s\nB. 14 m/s\nC. 16 m/s\nD. 20 m/s\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is\n\nChoices:\nA. 1 km/h\nB. 2 km/h\nC. 4 km/h\nD. greater than 4 km/h\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The metal detectors people walk through at airports operate via\n\nChoices:\nA. Ohm\u2019s law\nB. Faraday\u2019s law\nC. Coulomb\u2019s law\nD. Newton\u2019s laws\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Sound travels in\n\nChoices:\nA. solids\nB. liquids\nC. gases\nD. All of these\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of\n\nChoices:\nA. gamma radiation.\nB. kinetic energy of the alpha particle.\nC. kinetic energy of the neutron.\nD. All of these about equally.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Polarization is a property of\n\nChoices:\nA. transverse waves.\nB. longitudinal waves.\nC. all waves.\nD. None of these.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The phenomenon of beats results from sound\n\nChoices:\nA. reflection.\nB. refraction.\nC. interference.\nD. All of these.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The lowest possible temperature is absolute zero, at\n\nChoices:\nA. 0 kelvin\nB. \u2212273\u00b0C\nC. Both are the same\nD. None of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Refraction occurs when a wave crosses a boundary and changes\n\nChoices:\nA. speed and direction\nB. intensity\nC. frequency\nD. amplitude\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you tap a piece of wood, it will produce a characteristic sound related to its\n\nChoices:\nA. wavelength\nB. amplitude\nC. period\nD. natural frequency\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When wind speeds up as it blows over the top of a hill, atmospheric pressure there\n\nChoices:\nA. increases\nB. decreases\nC. isn\u2019t affected\nD. reduces to zero\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When white light passes through a prism, the light that bends more than green is\n\nChoices:\nA. red\nB. yellow\nC. blue\nD. None of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If you travel at high speed, then compared with your friends who \u201cstay at home,\u201d you are\n\nChoices:\nA. older.\nB. younger.\nC. neither younger nor older.\nD. longer.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The component of velocity that can remain constant for a tossed baseball is\n\nChoices:\nA. horizontal\nB. vertical\nC. Either of these\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The crystals that make up minerals are composed of\n\nChoices:\nA. atoms with a definite geometrical arrangement.\nB. molecules that perpetually move.\nC. X-ray patterns.\nD. 3-dimensional chessboards.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Two vectors, one 3 N and the other 4 N, can have a resultant of\n\nChoices:\nA. 0 N\nB. 5 N\nC. 8 N\nD. Any of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Radioactivity has been around on Earth since the\n\nChoices:\nA. middle of the 1900s\nB. Industrial Revolution\nC. advent of medical technology\nD. Earth formed\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When the shadow of the Moon falls on Earth, we have a\n\nChoices:\nA. lunar eclipse.\nB. solar eclipse.\nC. solar eclipse if it\u2019s daytime and lunar eclipse if it\u2019s nighttime.\nD. very dangerous event.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In both fission and fusion, energy is released while mass\n\nChoices:\nA. decreases\nB. remains unchanged; is conserved\nC. increases\nD. may decrease or increase\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to\n\nChoices:\nA. remain unchanged\nB. decrease\nC. increase\nD. spread out uniformly\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If the volume of an object were to double, with no change in mass, its density would\n\nChoices:\nA. halve.\nB. double.\nC. be the same.\nD. None of these.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The pressure at the bottom of a pond does NOT depend on the\n\nChoices:\nA. acceleration due to gravity.\nB. water density.\nC. depth of the pond.\nD. surface area of the pond.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The blueness of the daytime sky is due mostly to light\n\nChoices:\nA. absorption\nB. transmission\nC. reflection\nD. scattering\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A galvanometer can be calibrated to read electric\n\nChoices:\nA. current\nB. voltage\nC. Either of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Which of these temperatures is likely when a container of water at 20\u00b0C is mixed with water at 28\u00b0C?\n\nChoices:\nA. 19\u00b0C\nB. 22\u00b0C\nC. 30\u00b0C\nD. Higher than 30\u00b0C\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is\n\nChoices:\nA. one-quarter.\nB. one-half.\nC. the same.\nD. dependent on your distance from the mirror.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The vibrations in a transverse wave move in a direction\n\nChoices:\nA. along the wave\nB. perpendicular to the wave\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is\n\nChoices:\nA. 1131 Hz\nB. 1134 Hz\nC. 1137 Hz\nD. More information is needed\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Huygens\u2019 principle for light is primarily described by\n\nChoices:\nA. waves\nB. rays\nC. particles\nD. photons\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When the temperature of a strip of iron is increased, the length of the strip\n\nChoices:\nA. also increases.\nB. actually decreases.\nC. may increase and may decrease.\nD. decreases in width as it gets longer.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When light undergoes interference, it can sometimes\n\nChoices:\nA. build up to more than the sum of amplitudes\nB. cancel completely\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When the color yellow is seen on your TV screen the phosphors being activated on the screen are\n\nChoices:\nA. mainly yellow.\nB. blue and red.\nC. green and yellow.\nD. red and green.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Which of these does NOT belong in the family of electromagnetic waves?\n\nChoices:\nA. Light\nB. Sound\nC. Radio waves\nD. X-rays\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is\n\nChoices:\nA. zero\nB. g/2\nC. g\nD. a value between zero and g\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A motor and a generator are\n\nChoices:\nA. similar devices\nB. very different devices\nC. forms of transformers\nD. energy sources\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: As more lamps are connected in parallel in a circuit the current in the power source\n\nChoices:\nA. increases.\nB. decreases.\nC. remains much the same.\nD. Need more information.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Newton\u2019s law of cooling applies to objects that\n\nChoices:\nA. cool\nB. warm up\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per\n\nChoices:\nA. day\nB. month\nC. year\nD. None of these for the moon does not rotate about an axis\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball\n\nChoices:\nA. is mg\nB. is greater than mg always\nC. may be greater or less than mg\nD. is less than mg always\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The compressions and rarefactions in sound normally travel\n\nChoices:\nA. in the same direction\nB. in opposite directions\nC. at right angles to each other\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is\n\nChoices:\nA. 200 W\nB. 500 W\nC. 800 W\nD. 2000 W\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The phenomenon of beats is the result of sound\n\nChoices:\nA. destruction\nB. interference\nC. resonance\nD. amplification\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Interference is characteristic of\n\nChoices:\nA. sound waves\nB. light waves\nC. water waves\nD. All of these\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In either a fission event or a fusion event, a quantity that remains unchanged is the\n\nChoices:\nA. kinetic energy\nB. mass\nC. number of nucleons\nD. binding of nucleons\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The magnetic force on a moving charged particle can change the particle's\n\nChoices:\nA. speed\nB. direction\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If you were to travel at a speed close to the speed of light, you could notice that your own\n\nChoices:\nA. mass changes.\nB. pulse decreases.\nC. Both of these.\nD. Neither of these.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Electricity and magnetism connect to form\n\nChoices:\nA. mass\nB. energy\nC. ultrahigh-frequency sound\nD. light\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Sound travels in air by a series of\n\nChoices:\nA. compressions\nB. rarefactions\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal\n\nChoices:\nA. amounts of force\nB. accelerations\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is\n\nChoices:\nA. 52\nB. 26\nC. 24\nD. None.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: To say that a rose petal is red is to say that it\n\nChoices:\nA. absorbs red\nB. reflects red\nC. emits red\nD. transmits red\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity\n\nChoices:\nA. 10 times greater\nB. 100 times greater\nC. 1000 times greater\nD. more than 1000 times greater\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When red and blue light are overlapped, the color produced is\n\nChoices:\nA. magenta\nB. yellow\nC. cyan\nD. white\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is\n\nChoices:\nA. 40%\nB. 50%\nC. 60%\nD. 140%\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Shock waves are produced by waves of sound\n\nChoices:\nA. overlapping one another\nB. constructively interfering\nC. moving slower than the source producing them\nD. All of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?\n\nChoices:\nA. 3 N\nB. 5 N\nC. 8 N\nD. None of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is\n\nChoices:\nA. 200 J\nB. 500 J\nC. 800 J\nD. 2000 J\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?\n\nChoices:\nA. 4q.\nB. 8q.\nC. 16q.\nD. 32q.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The mass of an atom comes mostly from its _ ; and its volume from its _.\n\nChoices:\nA. nucleons; nucleons.\nB. electrons; electrons.\nC. electrons; nucleons.\nD. nucleons; electrons.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The definition of magnetic inclination is the angle between\n\nChoices:\nA. magnetic north and geographic north\nB. magnetic north and geographic south\nC. the earth\u2019s magnetic field at any point and the vertical\nD. the earth\u2019s magnetic field at any point and the horizontal\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The pitch of a sound is mostly related to its\n\nChoices:\nA. intensity\nB. frequency\nC. amplitude\nD. speed\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: As more lamps are connected to a series circuit, the current in the power source\n\nChoices:\nA. increases\nB. decreases\nC. remains the same\nD. None of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When an element ejects an alpha particle, the mass number of the resulting element\n\nChoices:\nA. reduces by 2\nB. reduces by 4\nC. increases by 2\nD. increases by 4\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: An electron can be speeded up by\n\nChoices:\nA. an electric field\nB. a magnetic field\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by\n\nChoices:\nA. zero\nB. minus 1\nC. minus 2\nD. plus 1\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "A",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When an object is set vibrating by a wave that has a matching frequency, what occurs is\n\nChoices:\nA. forced vibration\nB. resonance\nC. refraction\nD. amplitude reduction\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The red glow in the neon tube of an advertising sign is a result of\n\nChoices:\nA. fluorescence\nB. incandescence\nC. de-excitation\nD. polarization\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: At very high speeds, an object appears to an observer at rest to be\n\nChoices:\nA. shorter in the direction of travel.\nB. shrunken in all directions.\nC. shorter in the direction perpendicular to travel.\nD. longer in all directions.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When a wave moves from shallow water to deep water, the\n\nChoices:\nA. frequency decreases, the wavelength increases, and the speed increases\nB. frequency does not change, the wavelength increases, and the speed increases\nC. frequency does not change, the wavelength decreases, and the speed decreases\nD. frequency does not change, the wavelength increases, and the speed decreases\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is\n\nChoices:\nA. 9.8 m/s2\nB. more than 9.8 m/s2\nC. less than 9.8 m/s2\nD. Cannot say unless the speed of throw is given.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Carbon-14 is primarily produced by cosmic radiation in the\n\nChoices:\nA. atmosphere\nB. food we eat\nC. Earth\u2019s interior\nD. fallout of nuclear bomb tests\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Chain reactions in a fission reactor are caused by\n\nChoices:\nA. kinetic energy\nB. energy conversion\nC. mass conversion\nD. ejected neutrons\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is\n\nChoices:\nA. zero\nB. practically zero\nC. appreciably weaker than at Earth\u2019s surface\nD. without a component of force along their circular path\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The complementary color of blue is\n\nChoices:\nA. magenta\nB. yellow\nC. cyan\nD. white\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The difference between dc and ac in electric circuits is that in dc, charges flow\n\nChoices:\nA. steadily in one direction\nB. in one direction\nC. to and fro\nD. All of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: To receive an electric shock there must be a\n\nChoices:\nA. current in one direction.\nB. presence of moisture.\nC. high voltage and low body resistance.\nD. voltage difference across part or all of your body.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is\n\nChoices:\nA. less than 3000 N\nB. 3000 N\nC. greater than 3000 N\nD. Need more information\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Find the speed of a wave by multiplying its frequency by its\n\nChoices:\nA. period\nB. wavelength\nC. amplitude\nD. None of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The magnitude of the gravitational force on a satellite is constant if the orbit is\n\nChoices:\nA. parabolic\nB. circular\nC. elliptical\nD. All of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The impulse\u2013momentum relationship is a direct result of Newton\u2019s\n\nChoices:\nA. first law\nB. second law\nC. third law\nD. law of gravity\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A common nuclear fission reactor\n\nChoices:\nA. heats water\nB. generates electricity directly\nC. gets energy from nothing\nD. is a major polluter of the atmosphere\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The process of boiling water tends to\n\nChoices:\nA. warm the water\nB. cool the water\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you scale up an object to 3 times its linear size, the surface area increases by\n\nChoices:\nA. 3 and the volume by 9.\nB. 3 and the volume by 27.\nC. 9 and the volume by 27.\nD. 4 and the volume by 8.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)\n\nChoices:\nA. current\nB. voltage\nC. electric field\nD. All of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "D",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from\n\nChoices:\nA. inside the spaceship.\nB. Earth.\nC. Both of these.\nD. Neither of these.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The model of light most supported by the photoelectric effect is the\n\nChoices:\nA. wave model\nB. particle model\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with a fundamental tone, the frequency of its second harmonic is\n\nChoices:\nA. half as much\nB. twice as much\nC. the same\nD. four times as much\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be\n\nChoices:\nA. 48.0 m\nB. 24.0 m\nC. 6.00 m\nD. 3.00 m\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: During the time an aircraft produces a sonic boom, the aircraft is\n\nChoices:\nA. breaking the sound barrier\nB. pulling out of a subsonic dive\nC. flying faster than sound\nD. All of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The principal source of Earth\u2019s internal energy is\n\nChoices:\nA. tidal friction\nB. gravitational pressure\nC. radioactivity\nD. geothermal heat\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you brush your hair and scrape electrons from your hair, the charge of your hair becomes\n\nChoices:\nA. positive\nB. negative\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Astrophysicists are able to identify the elements in the outer layers of a star by studying its\n\nChoices:\nA. Doppler effect.\nB. molecular structure.\nC. temperature.\nD. spectrum.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true\n\nChoices:\nA. at speeds near that of light.\nB. at everyday low speeds.\nC. at all speeds.\nD. only approximately.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In his special theory of relativity, Einstein stated that the laws of physics are\n\nChoices:\nA. different in different situations.\nB. common sense applied to microscopic and macroscopic things.\nC. the same in all frames of reference.\nD. the same in all uniformly moving frames of reference.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When an element ejects a beta particle, the atomic number of that element\n\nChoices:\nA. reduces by 1\nB. increases by 1\nC. reduces by 2\nD. increases by 2\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The amount of heat transferred to a system can be measured in\n\nChoices:\nA. calories\nB. joules\nC. Either\nD. Neither\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased\n\nChoices:\nA. speed\nB. frequency\nC. Both of these\nD. Neither of these\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Light reflecting from a smooth surface undergoes a change in\n\nChoices:\nA. frequency.\nB. wavelength.\nC. All of these.\nD. None of these.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: What Einstein discovered about space and time is that they\n\nChoices:\nA. are separate entities.\nB. are parts of one whole.\nC. follow an inverse-square law.\nD. are special to space travelers.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: All parts of a laser beam have the same\n\nChoices:\nA. frequency\nB. phase\nC. speed\nD. All of these\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The rotational inertia of an object is greater when most of the mass is located\n\nChoices:\nA. near the rotational axis\nB. away from the axis\nC. on the rotational axis\nD. off center\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When small pieces of material are assembled into a larger piece, the combined surface area\n\nChoices:\nA. greatly increases\nB. slightly increases\nC. decreases\nD. is unchanged\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "C",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A rainbow is the result of light in raindrops that undergoes\n\nChoices:\nA. internal reflection\nB. dispersion\nC. refraction\nD. All of these\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: In the atomic nucleus, electrical forces tend to\n\nChoices:\nA. hold particles together\nB. push particles apart\nC. produce orbital motion\nD. charge particles\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The fact that the acceleration of free fall is the same for all masses is explained by Newton\u2019s\n\nChoices:\nA. first law\nB. second law\nC. third law\nD. law of action\u2013reaction\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Compared with radiation from the Sun, terrestrial radiation has a lower\n\nChoices:\nA. wavelength\nB. frequency\nC. Both\nD. Neither\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When we speak of time dilation, we mean that time\n\nChoices:\nA. compresses with speed.\nB. stretches with speed.\nC. is a constant at all speeds.\nD. is related to space.\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "B",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: The magnetic field lines about a current-carrying wire form\n\nChoices:\nA. circles\nB. radial lines\nC. eddy currents\nD. energy loops\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it\n\nChoices:\nA. increases.\nB. decreases.\nC. remains largely unchanged.\nD. Need more information.\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?\n\nChoices:\nA. 0.50 g\nB. 0.25 g\nC. 0.125 g\nD. 0.0625 g\n\nAnswer:",
+    "model_answer": "B",
+    "correct_answer": "C",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: Boiling and freezing occur when water is subjected to\n\nChoices:\nA. decreased temperatures\nB. decreased atmospheric pressure\nC. increased temperatures\nD. increased atmospheric pressure\n\nAnswer:",
+    "model_answer": "C",
+    "correct_answer": "B",
+    "is_correct": false
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: When you bend the branch of a tree by hanging on its end, the top side of the branch is under\n\nChoices:\nA. tension.\nB. compression.\nC. Both.\nD. Neither.\n\nAnswer:",
+    "model_answer": "A",
+    "correct_answer": "A",
+    "is_correct": true
+  },
+  {
+    "prompt": "Answer the following multiple-choice question by responding with the letter of the correct answer (A, B, C, or D).\n\nQuestion: A simple and correct way to comprehend satellites orbiting Earth is to view them as\n\nChoices:\nA. balanced between gravitational and centripetal forces.\nB. beyond the main pull of Earth gravity.\nC. in mechanical equilibrium with a net force of zero.\nD. having sufficient tangential velocities to fall around rather than into Earth.\n\nAnswer:",
+    "model_answer": "D",
+    "correct_answer": "D",
+    "is_correct": true
+  }
+]

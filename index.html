@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MMLU Evaluation Results: Phi-3-Mini</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="mainHeader">
+        <h1>MMLU Evaluation Results: Phi-3-Mini</h1>
+    </header>
+    <nav>
+        <button id="homeButton">Home</button>
+        <select id="subjectSelect">
+            <option value="">Select a subject</option>
+        </select>
+    </nav>
+    <main>
+        <section id="overallScores">
+            <h2>Overall Scores</h2>
+            <table id="scoresTable">
+                <thead>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Scores will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </section>
+        <section id="subjectResults" style="display: none;">
+            <h2 id="subjectTitle"></h2>
+            <div id="resultsSummary"></div>
+            <table id="resultsTable">
+                <thead>
+                    <tr>
+                        <th>Question</th>
+                        <th>Choices</th>
+                        <th>Model Answer</th>
+                        <th>Correct Answer</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Results will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
